@@ -11,7 +11,7 @@ export const dracula = createTheme({
 		selection: '#44475a',
 		gutterBackground: '#282a36',
 		gutterForeground: 'rgb(144, 145, 148)',
-		lineHighlight: '#44475a',
+		lineHighlight: '#44475a66',
 	},
 	styles: [
 		{

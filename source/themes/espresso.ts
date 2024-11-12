@@ -11,7 +11,7 @@ export const espresso = createTheme({
 		selection: '#80C7FF',
 		gutterBackground: '#FFFFFF',
 		gutterForeground: '#00000070',
-		lineHighlight: '#C1E2F8',
+		lineHighlight: '#c1e2f866',
 	},
 	styles: [
 		{

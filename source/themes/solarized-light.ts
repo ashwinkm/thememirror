@@ -11,7 +11,7 @@ export const solarizedLight = createTheme({
 		selection: '#073642',
 		gutterBackground: '#fef7e5',
 		gutterForeground: '#586E7580',
-		lineHighlight: '#EEE8D5',
+		lineHighlight: '#eee8d566',
 	},
 	styles: [
 		{

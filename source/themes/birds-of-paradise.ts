@@ -11,7 +11,7 @@ export const birdsOfParadise = createTheme({
 		selection: '#16120E',
 		gutterBackground: '#3b2627',
 		gutterForeground: '#E6E1C490',
-		lineHighlight: '#1F1611',
+		lineHighlight: '#1f161166',
 	},
 	styles: [
 		{

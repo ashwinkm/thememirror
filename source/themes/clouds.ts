@@ -11,7 +11,7 @@ export const clouds = createTheme({
 		selection: '#BDD5FC',
 		gutterBackground: '#fff',
 		gutterForeground: '#00000070',
-		lineHighlight: '#FFFBD1',
+		lineHighlight: '#fffbd166',
 	},
 	styles: [
 		{

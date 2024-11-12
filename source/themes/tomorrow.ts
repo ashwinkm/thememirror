@@ -11,7 +11,7 @@ export const tomorrow = createTheme({
 		selection: '#D6D6D6',
 		gutterBackground: '#FFFFFF',
 		gutterForeground: '#4D4D4C80',
-		lineHighlight: '#EFEFEF',
+		lineHighlight: '#EFEFEF66',
 	},
 	styles: [
 		{
